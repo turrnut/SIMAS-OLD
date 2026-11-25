@@ -1,3 +1,6 @@
+# This repo has been archived. Development on SIMAS will continue on https://github.com/turrnut/SIMAS
+<hr>
+<br><br><br>
 
 ![SIMAS BANNER](/images/simasbanner.png)
 # The SIMAS Programming Language
